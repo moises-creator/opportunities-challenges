@@ -1,3 +1,3 @@
 # opportunities-challenges
 
-### repositório voltado para resoluões de desafios/oportunidades
+### repositório voltado para resoluções de desafios/oportunidades
