@@ -1,0 +1,8 @@
+torch
+torchvision
+requests
+pandas
+BeautifulSoup4
+PyPDF2
+mysql-connector-python 
+pytesseract
