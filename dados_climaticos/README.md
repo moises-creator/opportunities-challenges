@@ -1,6 +1,6 @@
 # Exercício sobre Dados Climáticos 🎲⛈
 
-### 🔥 Um dos principais objetivos é limpar dados vazios e tratar utilizando técnicas que aprendi utilizando Ciência de dados.
+### 🔥 Um dos principais objetivos é limpar dados vazios e tratar utilizando técnicas que aprendi em Ciência de dados.
 
 **Requisitos:**
 - Aparência: Sol, nublado e chuva;
